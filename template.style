@@ -1,0 +1,23 @@
+{"pageSetup": {
+    "width": "297mm",
+    "height": "210mm",
+    "margin-top": "0mm",
+    "margin-bottom": "0mm",
+    "margin-left": "0mm",
+    "margin-right": "0mm",
+    "margin-gutter": "0mm",
+    "spacing-header": "5mm",
+    "spacing-footer": "5mm",
+    "firstTemplate": "cutePage"
+},
+"pageTemplates" : {
+    "cutePage": {
+        "frames": [
+            ["10%", "10%", "80%", "80%"]
+        ],
+        "background" : "background.svg",
+        "showHeader" : true,
+        "showFooter" : true
+    }
+}
+}

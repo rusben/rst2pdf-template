@@ -1,0 +1,56 @@
+Lorem ipsum dolor
+-----------------
+
+* Suspendisse ornare, dolor vel tempor vestibulum
+
+* Nulla lobortis sem a luctus tempor.
+
+  1. Maecenas sit amet nisl varius.
+  2. Pellentesque habitant morbi tristique.
+
+Sit amet consectetur adipiscing elit
+------------------------------------
+
+* C code block
+
+.. code-block:: c
+
+   /* Hello World program */
+ 
+  #include<stdio.h>
+   main()
+   {
+      printf("Hello World");
+   }
+
+Etiam mi nunc, maximus a mi ut
+------------------------------
+
+* math block
+
+.. math::
+
+   \left(6\sqrt{2}+\sqrt{3}\right)\left(4\sqrt{3}-\sqrt{7}\right)
+
+
+Tempor laoreet odio. Cras rhoncus
+---------------------------------
+
+Nam accumsan erat in felis finibus ultricies:
+
+* Maecenas laoreet eu purus in venenatis. 
+
+* Venenatis lacus quis, pretium enim.
+
+* Proin tincidunt consequat lorem vel imperdiet.
+
+* Phasellus facilisis tincidunt arcu a tempus.
+
+
+.. header::
+
+   ReStructuredText file template
+
+.. footer::
+
+   (c) Your Name, 2018
